@@ -1,0 +1,51 @@
+{
+  "id": "0",
+  "items": [
+    {
+      "id": "1",
+      "quantity": 1,
+      "sku": {
+        "id": "abc",
+        "title": "Legion 5 Pro AMD 40.64cms - Storm Grey",
+        "price": 99.99
+      }
+    },
+    {
+      "id": "2",
+      "quantity": 1,
+      "sku": {
+        "id": "def",
+        "title": "QGeeM USB C to HDMI Adapter 4K Cable, USB Type-C to HDMI Adapter ",
+        "price": 19.99
+      }
+    },
+    {
+      "id": "3",
+      "quantity": 1,
+      "sku": {
+        "id": "ghi",
+        "title": "Samsung Galaxy Z Fold3 5G (Dark Blue)",
+        "price": 149.99
+      }
+    },
+    {
+      "id": "4",
+      "quantity": 1,
+      "sku": {
+        "id": "jkl",
+        "title": "PHILIPS 10000 mAh Power Bank (10 W, Fast Charging)  (Blue, Lithium Polymer)",
+        "price": 39.99
+      }
+    },
+    {
+      "id": "5",
+      "quantity": 1,
+      "sku": {
+        "id": "mno",
+        "title": "BAJAJ Majesty DX 6 1000 W Dry Iron  (White)",
+        "price": 8.44
+      }
+    }
+  ],
+  "subTotal": 0
+}
